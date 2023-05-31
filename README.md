@@ -1,6 +1,10 @@
-# games
+# Games
 
-app jogos terminados
+> Status do projeto: em desenvolvimento
+
+```
+Aplicativo para listar games concluídos pelo jogador
+```
 
 ## Getting Started
 
